@@ -470,16 +470,16 @@ font-size: 26px;
 
 .polaroid-images {
   width: 100%;
-  padding-left: 50px;
+  padding-left: 30px;
 }
 
 .polaroid-images span{
   background-color: white;
   display: inline-block;
   float: left;
-  width:250px;
-  height:225px;
-  margin: 0 15px 30px;
+  width:240px;
+  height:215px;
+  margin: 0 10px 30px;
   padding: 10px 10px 25px;
   text-align: center;
   text-decoration: none;
@@ -496,8 +496,8 @@ font-size: 26px;
 .polaroid-images img {
   position: absolute;
   display: block;
-  width:225px;
-  height:200px;
+  width:215px;
+  height:190px;
 }
 
 .polaroid-images span:nth-child(2n)
